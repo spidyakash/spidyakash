@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spidyakash
 - 👀 I’m interested in ...coding and novels 
-- 🌱 I’m currently learning ...python, c,c++,java
+- 🌱 I’m currently learning ...html,css,python, c,c++,java
 - 💞️ I’m looking to collaborate on ...Hackathon, web design,androidmaking
 - 📫 How to reach me ...akashshakya855@gmail.com
 
